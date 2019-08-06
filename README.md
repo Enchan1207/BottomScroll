@@ -22,3 +22,4 @@ Auto-scroll Chrome Extension.
 
 ###  Use
 Press `.` to scroll on pages top.
+Press `/` on `www.google.com` to focus search bar.
