@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "BottomScroll",
+    "version" : "0.1",
+    "description" : "Twitter Web Clientの機能、「ピリオドキー押下時に最上段にスクロール」を実装します。",
+    "icons" : {
+        "48" : "./icon48.png"
+    },
+    "content_scripts" : [
+        {
+            "matches" : [
+                "http://*/*",
+                "https://*/*"
+            ],
+            "js" : [
+                "script.js"
+            ]
+        }
+    ]
+}
