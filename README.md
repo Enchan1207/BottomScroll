@@ -4,7 +4,7 @@
 Auto-scroll Chrome Extension.
 
 ## Development Environment
- * Launguage: JaaScript
+ * Launguage: JavaScript
  * Execution: Google Chrome(75.0.3770.142)
 
 ## Contents
