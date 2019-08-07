@@ -17,5 +17,12 @@ document.onkeydown = function(){
                 document.forms[1][1].focus();
             }, 100);
         }
+
+        //--akidukidenshi.comの場合
+        if(location.host == "akizukidenshi.com"){
+            setTimeout(() => {
+                document.forms[1][1].focus();
+            }, 100);
+        }
     }
 }
