@@ -22,4 +22,4 @@ Auto-scroll Chrome Extension.
 
 ###  Use
 Press `.` to scroll on pages top.
-Press `/` on `www.google.com/*` and `www.yahoo.co.jp/*` to focus search bar.
+Press `/` on `www.google.com/*`, `akidukidenshi.com` and `www.yahoo.co.jp/*` to focus search bar.
